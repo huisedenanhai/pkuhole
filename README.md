@@ -19,4 +19,7 @@ PKU Hole is a place for PKU students to share their ideas anonymously.
 
 + If you are using [iterm2](https://www.iterm2.com/index.html) on macOS, you can see inline images by running `show_inline_image(True)`, which is turned off by default.
 
+## Demo Usage
+![](demo_usage.png)
+
 Have fun.

@@ -11,7 +11,6 @@ def get_list(page_num = 1):
     entrys = utils.get_responds(params)
     if entrys == None:
         return
-    print(entrys)
     for msg in entrys['data']:
         print('-----------------------------------')
         utils.show_op_data(msg)
