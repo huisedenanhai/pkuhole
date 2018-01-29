@@ -1,6 +1,8 @@
 # PKU Hole
 
-[TOC]
+* [PKU Hole](#pku-hole)
+    * [General Usage](#general-usage)
+    * [Demo](#demo)
 
 This is a package to read PKU Hole.
 You can play with it in python's interactive mode.
@@ -19,7 +21,7 @@ PKU Hole is a place for PKU students to share their ideas anonymously.
 
 + If you are using [iterm2](https://www.iterm2.com/index.html) on macOS, you can see inline images by running `show_inline_image(True)`, which is turned off by default.
 
-## Demo Usage
+## Demo
 ![](demo_usage.png)
 
 Have fun.
