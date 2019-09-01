@@ -5,7 +5,7 @@ import json
 
 SHOW_DEBUG = False
 SHOW_INLINE_IMAGE = False
-url = 'http://www.pkuhelper.com/services/pkuhole'
+url = 'http://pkuhelper.pku.edu.cn/services/pkuhole'
 
 def set_SHOW_DEBUG(show_debug):
     global SHOW_DEBUG
